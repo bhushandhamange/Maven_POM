@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22574" started-at="2020-06-14T15:41:33Z" finished-at="2020-06-14T15:41:56Z">
+    <groups>
+    </groups>
+    <test name="FF_Test" duration-ms="22574" started-at="2020-06-14T15:41:33Z" finished-at="2020-06-14T15:41:56Z">
+      <class name="com.hms.testcases.DashboardPageTest">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.hms.testcases.DashboardPageTest@a102f03f]" name="setup" is-config="true" duration-ms="14960" started-at="2020-06-14T15:41:33Z" finished-at="2020-06-14T15:41:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://automationpractice.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hms.testcases.DashboardPageTest@a102f03f]" name="setup" is-config="true" duration-ms="0" started-at="2020-06-14T15:41:48Z" finished-at="2020-06-14T15:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.hms.testcases.DashboardPageTest@a102f03f]" name="verifyLogin" duration-ms="4740" started-at="2020-06-14T15:41:48Z" finished-at="2020-06-14T15:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hms.testcases.DashboardPageTest@a102f03f]" name="teardown" is-config="true" duration-ms="2843" started-at="2020-06-14T15:41:53Z" finished-at="2020-06-14T15:41:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.hms.testcases.DashboardPageTest -->
+    </test> <!-- FF_Test -->
+  </suite> <!-- Suite -->
+</testng-results>
