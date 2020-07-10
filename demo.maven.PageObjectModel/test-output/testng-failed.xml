@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="browserName" value="FF"/>
+  <parameter name="url" value="http://automationpractice.com/"/>
+  <test name="FF_Test">
+    <parameter name="browserName" value="FF"/>
+    <parameter name="url" value="http://automationpractice.com/"/>
+    <classes>
+      <class name="com.hms.testcases.ExtentReportsClass"/>
+    </classes>
+  </test> <!-- FF_Test -->
+</suite> <!-- Failed suite [Suite] -->

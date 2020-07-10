@@ -1,0 +1,2 @@
+2020-06-13 23:00:21,148  INFO BasePage.java [main] com.hms.testcases.DashboardPageTest - initilaize - 27 - URL : http://automationpractice.com/
+2020-06-13 23:00:21,152  INFO BasePage.java [main] com.hms.testcases.DashboardPageTest - initilaize - 30 - Driver folder path : D:\Software\Selenium\Driver\

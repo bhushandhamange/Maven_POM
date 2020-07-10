@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28672" started-at="2020-06-11T15:30:19Z" finished-at="2020-06-11T15:30:48Z">
+    <groups>
+    </groups>
+    <test name="FF_Test" duration-ms="28672" started-at="2020-06-11T15:30:19Z" finished-at="2020-06-11T15:30:48Z">
+      <class name="com.hms.testcases.ExtentReportsClass">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.hms.testcases.ExtentReportsClass@9375ad2f]" name="setup" is-config="true" duration-ms="20570" started-at="2020-06-11T23:30:19Z" finished-at="2020-06-11T23:30:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://automationpractice.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hms.testcases.ExtentReportsClass@9375ad2f]" name="setup" is-config="true" duration-ms="0" started-at="2020-06-11T23:30:40Z" finished-at="2020-06-11T23:30:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hms.testcases.ExtentReportsClass@9375ad2f]" name="setUp" is-config="true" duration-ms="188" started-at="2020-06-11T23:30:40Z" finished-at="2020-06-11T23:30:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.hms.testcases.ExtentReportsClass@9375ad2f]" name="verifyLogin" duration-ms="7363" started-at="2020-06-11T23:30:40Z" finished-at="2020-06-11T23:30:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hms.testcases.ExtentReportsClass@9375ad2f]" name="tearDown" is-config="true" duration-ms="531" started-at="2020-06-11T23:30:47Z" finished-at="2020-06-11T23:30:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.hms.testcases.ExtentReportsClass@9375ad2f]" name="teardown" is-config="true" duration-ms="0" started-at="2020-06-11T23:30:48Z" finished-at="2020-06-11T23:30:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.hms.testcases.ExtentReportsClass -->
+    </test> <!-- FF_Test -->
+  </suite> <!-- Suite -->
+</testng-results>
